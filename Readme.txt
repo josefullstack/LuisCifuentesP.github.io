@@ -2,7 +2,7 @@ Hola!, soy Luis Ignacio Cifuentes.  Este es mi repositorio con mi portafolio en 
 Podras abrir desde aquí solo copiando el link y accederas a mí repositorio, forks y commits.
 Cumpliendo con la rubrica de trabajo.
 
------>>>    LuisCifuentesP.github.io 
+----->>>    https://luiscifuentesp.github.io/ 
 
 Fork
 1.https://github.com/LuisCifuentesP/https-github.com-cverduzco23-cverduzco23.github.io
