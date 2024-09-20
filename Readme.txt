@@ -1,6 +1,13 @@
-Thanks for downloading this template!
+Hola!, soy Luis Ignacio Cifuentes.  Este es mi repositorio con mi portafolio en GitHub pages para DesafioLatam/generación G-86 Fullstack JS.
+Podras abrir desde aquí solo copiando el link y accederas a mí repositorio, forks y commits.
+Cumpliendo con la rubrica de trabajo.
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+----->>>    https://luiscifuentesp.github.io/ 
+
+Fork
+1.https://github.com/LuisCifuentesP/https-github.com-cverduzco23-cverduzco23.github.io
+2.https://github.com/LuisCifuentesP/https-github.com-ivanreyescl-ivanreyescl.github.io
+
+commit en cada fork
+1.https://github.com/LuisCifuentesP/https-github.com-cverduzco23-cverduzco23.github.io/commits/master/
+2.https://github.com/LuisCifuentesP/https-github.com-ivanreyescl-ivanreyescl.github.io/commits/master/
