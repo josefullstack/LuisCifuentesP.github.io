@@ -1,6 +1,6 @@
 Hola!, soy Luis Ignacio Cifuentes.  Este es mi repositorio con mi portafolio en GitHub pages para DesafioLatam/generación G-86 Fullstack JS.
-Podras abrir desde aquí solo copiando el link y accederas a mí repositorio, forks y commits.
-Cumpliendo con la rubrica de trabajo.
+Podras abrir desde aquí; los links y podras acceder directamente a mí repositorio, forks y commits.
+Cumpliendo con la rubrica de trabajo, te dejo los links. aquí abajo .
 
 ----->>>    https://luiscifuentesp.github.io/ 
 
