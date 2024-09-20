@@ -1,5 +1,6 @@
-Hola!, soy Luis Cifuentes. G-86
-Podras abrir desde aquí solo copiando el link y accederas a mí repositorio
+Hola!, soy Luis Ignacio Cifuentes.  Este es mi repositorio con mi portafolio en GitHub pages para DesafioLatam/generación G-86 Fullstack JS.
+Podras abrir desde aquí solo copiando el link y accederas a mí repositorio, forks y commits.
+Cumpliendo con la rubrica de trabajo.
 
 ----->>>    LuisCifuentesP.github.io 
 
